@@ -4,12 +4,12 @@ A complete project following official tutorial of Android App development on off
 
 # Progress
 
-[x] [Buliding Your First App](https://developer.android.com/training/basics/firstapp/index.html)
-[] [Support Different Devices](https://developer.android.com/training/basics/supporting-devices/index.html)
-[] [Building a Dynamic UI with Fragments](https://developer.android.com/training/basics/fragments/index.html)
-[] [Saving Data](https://developer.android.com/training/basics/data-storage/index.html)
-[] [Interacting with Other Apps](https://developer.android.com/training/basics/intents/index.html)
-[] [Working with System Permissions](https://developer.android.com/training/permissions/index.html)
+* [x] [Buliding Your First App](https://developer.android.com/training/basics/firstapp/index.html)
+* [ ] [Support Different Devices](https://developer.android.com/training/basics/supporting-devices/index.html)
+* [ ] [Building a Dynamic UI with Fragments](https://developer.android.com/training/basics/fragments/index.html)
+* [ ] [Saving Data](https://developer.android.com/training/basics/data-storage/index.html)
+* [ ] [Interacting with Other Apps](https://developer.android.com/training/basics/intents/index.html)
+* [ ] [Working with System Permissions](https://developer.android.com/training/permissions/index.html)
 
 # License
 
